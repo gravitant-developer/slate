@@ -33,7 +33,8 @@ includes:
   - invoices
   - payments
   - fulfillments
-  - rules
+  - policies
+  - promotions
   - enumerations
   - definitions
   - metadata
