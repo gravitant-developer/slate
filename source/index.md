@@ -41,9 +41,5 @@ includes:
   - process
   - tags
  
-  # misc
-  - bugs
-  - changelog
-
 search: true
 ---
