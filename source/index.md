@@ -2,11 +2,7 @@
 title: Gravitant API Docs
 
 language_tabs:
-  - json
-  - php
-  - ruby
-  - python
-  - javascript: node.js
+  - shell
 
 toc_footers:
   - <a href='https://developer.gravitant.io/applications/create' target="_blank">Get API Credentials</a>
